@@ -1,10 +1,10 @@
-# Reasoning Beyond English in Large Language Models  
+# Multilingual Reasoning in Large Language Models: Inference, Fine-Tuning, and Pre-Training Beyond English
 
 
 ## Overview  
 This tutorial addresses the challenge of reasoning in large language models (LLMs) beyond the English paradigm. It presents a framework for **multilingual reasoning**, defined as the transfer and alignment of reasoning processes across languages, rather than mere translation or output generation in multiple languages. The tutorial is structured across three core levels:  
 
-- Inference-time techniques (reasoning without additional training)  
+- Inference-time techniques (reasoning without training)  
 - Fine-tuning regimes (internalising multilingual reasoning)  
 - Pre-training interventions (towards reasoning equity across languages)  
 
@@ -101,5 +101,5 @@ This tutorial is organised by a multidisciplinary, multilingual team and explici
 
 ## Materials & Repository  
 All slides, demo notebooks and workflow materials will be publicly released at:  
-👉 [github.com/lranaldii/Multilingual_Reasoning](https://github.com/lranaldii/Multilingual_Reasoning)  
+👉 [github.com/lranaldii/Multilingual_Reasoning](https://github.com/lranaldii/Multilingual_Reasoning/demo)  
 
