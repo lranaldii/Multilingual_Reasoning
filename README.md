@@ -103,5 +103,5 @@ This tutorial is organised by a multidisciplinary, multilingual team and explici
 
 ## Materials & Repository  
 All slides, demo notebooks and workflow materials will be publicly released at:  
-👉 [github.com/lranaldii/Multilingual_Reasoning](https://github.com/lranaldii/Multilingual_Reasoning/demo)  
+👉 [github.com/lranaldii/Multilingual_Reasoning/demo](https://github.com/lranaldii/Multilingual_Reasoning/demo)  
 
