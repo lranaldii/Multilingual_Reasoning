@@ -60,32 +60,34 @@ Participants will gain both conceptual grounding and hands-on workflows (prompt 
 
 ## Reading List  
 
-### Surveys & Foundational Works  
+### Surveys & Foundational Works(*)  
 - Qin et al., *Multilingual Large Language Models: A Survey of Resources, Taxonomy and Frontiers*, 2024  
 - Xu et al., *A Survey on Multilingual Large Language Models: Corpora, Alignment and Bias*, 2025  
 - Huang & Chang, *Towards Reasoning in Large Language Models: A Survey*, 2023  
 - Ghosh et al., *A Survey of Multilingual Reasoning in Language Models*, 2025  
 
-### Inference-Time & Prompting  
+### Inference-Time & Prompting(*)  
 - Qin et al., *Cross-Lingual Prompting: Improving Zero-Shot Chain-of-Thought Reasoning across Languages*, EMNLP 2023  
 - Zhu et al., *Question Translation Training for Better Multilingual Reasoning*, Findings of ACL 2024  
 - Ranaldi et al., *Empowering Multi-step Reasoning across Languages via Program-Aided LMs*, EMNLP 2024  
 
-### Fine-Tuning & Alignment  
+### Fine-Tuning & Alignment(*)  
 - Lai & Nissim, *mCoT: Multilingual Instruction-Tuning for Reasoning Consistency*, ACL 2024  
 - She et al., *MAPO: Multilingual Alignment-as-Preference Optimisation*, ACL 2024  
 - Dang et al., *RLHF Can Speak Many Languages*, EMNLP 2024  
 - Ranaldi & Pucci, *Multilingual Reasoning via Self-Training*, NAACL 2025  
 
-### Pre-Training & Data Equity  
+### Pre-Training & Data Equity(*)  
 - Martins et al., *EuroLLM*, Procedia Computer Science 2025  
 - Gonzalez-Agirre et al., *Salamandra Technical Report*, 2025  
 - Burchell et al., *HPLT Dataset for High-Performance Language Technologies*, ACL 2025  
 
-### Evaluation & Interpretability  
+### Evaluation & Interpretability(*)  
 - Qi et al., *Cross-Lingual Consistency of Factual Knowledge*, EMNLP 2023  
 - Tang et al., *Language-Specific Neurons: The Key to Multilingual Capabilities*, ACL 2024  
-- Zhao & Aletras, *Comparing Explanation Faithfulness Between Multilingual and Monolingual LMs*, NAACL 2024  
+- Zhao & Aletras, *Comparing Explanation Faithfulness Between Multilingual and Monolingual LMs*, NAACL 2024
+
+>(*)This repository is an **active work in progress**. Additional notebooks, extended reading lists, and recent papers capturing the evolving **state of the art in multilingual reasoning** will be integrated. The current version provides the initial conceptual and scaffolding to be expanded with new papers, datasets, models, and protocols (**note** that the submitted version of the proposal contains a magigor overview which will be augmented here as well).
 
 ---
 
