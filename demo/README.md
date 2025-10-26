@@ -1,4 +1,4 @@
-# 🧭 Multilingual Reasoning in Large Language Models: Inference, Fine-Tuning, and Pre-Training Beyond English — Applications (Reproducible Workflows)
+# Multilingual Reasoning in Large Language Models: Inference, Fine-Tuning, and Pre-Training Beyond English — Applications (Reproducible Workflows)
 
 The tutorial provides **reproducible workflows** illustrating how multilingual reasoning can be analysed and strengthened at different stages of a model’s lifecycle.
 
@@ -9,18 +9,23 @@ The goal is to offer **compact, didactic examples**—fully executable in lightw
 
 ---
 
-## 🌍 Workflows Layout
+## Workflows Layout
 
+
+<pre>
 demo/
-├── in-context/ → Module A: reasoning without training (in-context)
-│ ├── README.md
-│ └── demo_in_context.ipynb
-├── fine-tuning/ → Module B: internalising multilingual reasoning (tuning)
-│ ├── README.md
-│ └── pipeline_finetune.ipynb
-└── pre-training/ → Module C: continual multilingual pre-training (data & drift)
-├── README.md
-└── toy_cpt_pretraining.ipynb
+├── in-context/        → Module A: reasoning without training (in-context learning)
+│   ├── README.md
+│   └── demo_in_context.ipynb
+├── fine-tuning/       → Module B: internalising multilingual reasoning (fine-tuning)
+│   ├── README.md
+│   └── pipeline_finetune.ipynb
+└── pre-training/      → Module C: continual multilingual pre-training (pre-training data/architecture drift)
+    ├── README.md
+    └── toy_cpt_pretraining.ipynb
+</pre>
+
+
 
 
 Each module will include:
